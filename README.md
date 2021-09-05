@@ -7,7 +7,7 @@ I constantly worry if I am being too loud, being a disturbance to my family, and
 
  *Presenting Privacy Door!*
  
-![The Privacy Door
+![The Privacy Door]
 
 https://user-images.githubusercontent.com/70525708/132134148-ca1b5744-11eb-4a5c-b896-6a17d82e7107.mp4
 
