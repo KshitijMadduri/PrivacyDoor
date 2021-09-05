@@ -5,7 +5,7 @@ An Arduino-based build to create better work-from-home environments!
 The pandemic has accelerated the frequency of video-calling, be it with your loved ones or your colleagues. However, when we are restricted to our homes, the practice of video-calling gives me pet peeves. 
 I constantly worry if I am being too loud, being a disturbance to my family, and sometimes if I have my privacy when needed.
 
-# Presenting Privacy Door!
+ *Presenting Privacy Door!*
 
 A simple Arduino-based solution that incorporats a KY037 Sound sensor along with an HC-SR04 Proximity sensor to solve all my problems!
 
